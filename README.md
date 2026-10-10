@@ -27,7 +27,7 @@ A command-line weather application written in Python that retrieves current weat
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/bartus-dev/weather-api.git
    ```
 
 2. Navigate to the project directory:
